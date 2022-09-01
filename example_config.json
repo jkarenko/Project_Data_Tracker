@@ -1,0 +1,7 @@
+{
+  "user": "user@domain.com",
+  "jira_api": "https://api.domain.com",
+  "jira_url": "https://issues.domain.com/browse/",
+  "token": "yOUr_jIRa_aCcess_t0k3n",
+  "project_info": "path_to_where_you_want_your_project_info_file_to_be_saved.json",
+}
